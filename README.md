@@ -6,6 +6,9 @@
   
   **<h2 align="center">My GitHub: </h2>**  
 
+### About me:
+
+<p align='center'>I am a Front-End Software Engineer from Baltimore, MD currently in Orlando, FL. Building desktop computers open my eyes to the world of technology. I went to Turing School of Software and Design where I developed 10+ javascript/React applications. I am passionate in sharpening my UX/UI skills to give users a seamless experience on the web</p>
 
 <details align="center">	
   <summary><b>Stats</b></summary>
